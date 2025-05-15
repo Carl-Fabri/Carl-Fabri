@@ -1,7 +1,10 @@
 <h1 align="center"> Hi I'm Carlos Fabricio </br> 
 
-
-[![3.png](https://i.postimg.cc/TwbFvnN6/3.png)](https://postimg.cc/wy60hRdf)
+<div align="center">
+<a href="https://ossinsight.io">
+  <img src="[/web/static/img/screenshots/homepage.gif](https://i.postimg.cc/TwbFvnN6/3.png)" height=360
+</a>
+</div>
 
 <!--
 **Carl-Fabri/Carl-Fabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
