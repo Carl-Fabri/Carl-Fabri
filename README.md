@@ -1,8 +1,9 @@
 <h1 align="center"> Hi I'm Carlos Fabricio </br> 
-<!--  -->
-<div align="center">
-  <img src="https://i.postimg.cc/TwbFvnN6/3.png" height=360
-</div>
+
+<br>
+  
+## <picture>  <img src="https://i.postimg.cc/TwbFvnN6/3.png" height=360></picture>
+
 
 <!--
 **Carl-Fabri/Carl-Fabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
