@@ -1,9 +1,7 @@
 <h1 align="center"> Hi I'm Carlos Fabricio </br> 
-
+<!--  -->A
 <div align="center">
-<a href="https://ossinsight.io">
-  <img src="[/web/static/img/screenshots/homepage.gif](https://i.postimg.cc/TwbFvnN6/3.png)" height=360
-</a>
+  <img src="https://i.postimg.cc/TwbFvnN6/3.png" height=360
 </div>
 
 <!--
