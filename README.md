@@ -2,7 +2,7 @@
 
 <br>
   
-## <picture>  <img src="https://i.postimg.cc/TwbFvnN6/3.png" height=360></picture>
+## <img src="https://i.postimg.cc/TwbFvnN6/3.png" height=360>
 
 
 <!--
