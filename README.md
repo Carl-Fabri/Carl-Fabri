@@ -1,6 +1,6 @@
-<h1 align="center"> Hi I'm Carlos Fabricio </h1>
+<h1 align="center"> Hola, me llamo Carlos Fabricio</h1>
 <br>  
-<div align="center"> <img align="center" src="https://i.postimg.cc/TwbFvnN6/3.png" height=550></div>
+<div align="center"> <img align="center" src="https://i.postimg.cc/TwbFvnN6/3.png" width=950></div>
 
 <br>  
 <h2> Acerca de mi </h2>
